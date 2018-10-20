@@ -14,7 +14,7 @@ My projects
    * redux
    * antd-mobile
 2.  后台项目
-   *  node
+   *  node.js
    *  express
    *  mongodb
    *  mongoose
